@@ -46,6 +46,6 @@ This apps shows the number of people infected, deceased and recovered in 48 coun
 ### Summary of the results of the analysis
   This project shows the update on coronavirus on each countries all over the world , the rate if infected peop;e, the deceased and the recovered.
   Coronavirus pandemic has affected a lots of people all over the world.
-
+Deployed at[Coronavirus-World-stats](https://coronavirus-world-stats.herokuapp.com/)
 
 
