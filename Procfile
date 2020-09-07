@@ -1,1 +1,1 @@
-web gunicorn myapp:app
+web gunicorn coronavirus_world_stats:app
