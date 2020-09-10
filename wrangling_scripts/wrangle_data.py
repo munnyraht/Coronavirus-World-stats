@@ -63,8 +63,8 @@ def return_figures():
   )
 
   layout_two = dict(title = 'Number of deaths',
-              xaxis = dict(title = 'Countries',),
-              yaxis = dict(title = 'deceased'),
+              xaxis = dict(title = 'Deceased',),
+              yaxis = dict(title = 'Countries'),
               width=800,
               height=1000,
 
@@ -83,8 +83,8 @@ def return_figures():
   )
 
   layout_three = dict(title = 'Number of Recovery',
-              xaxis = dict(title = 'Countries'),
-              yaxis = dict(title = 'Recovered'),
+              xaxis = dict(title = 'Recovered'),
+              yaxis = dict(title = 'Countries'),
               width=800,
               height=1000,
                      )
